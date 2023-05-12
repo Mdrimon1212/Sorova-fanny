@@ -1,1 +1,1 @@
-const offerLink = "https://wabxeq.datingllfe.net/?utm_source";
+const offerLink = "https://wabxe";

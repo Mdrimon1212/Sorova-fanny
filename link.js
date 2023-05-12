@@ -1,1 +1,1 @@
-const offerLink = "https://wabxe";
+const offerLink = "https://cuty.io/WBsN";
